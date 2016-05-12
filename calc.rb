@@ -5,3 +5,7 @@
 # get second number
 # print output
 # prompt to continue or exit
+
+def some_method
+	puts "What's your number?"
+end
